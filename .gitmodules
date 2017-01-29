@@ -4,3 +4,6 @@
 [submodule "themes/hexo-theme-primer"]
 	path = themes/hexo-theme-primer
 	url = https://github.com/yumemor/hexo-theme-primer
+[submodule "themes/architect"]
+	path = themes/architect
+	url = https://github.com/pages-themes/architect
