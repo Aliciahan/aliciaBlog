@@ -71,4 +71,4 @@ deploy:
   type: git
   repo: https://github.com/Aliciahan/aliciaBlog.git
   branch: master
-	message: "Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}"	
+  message: "Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}"	
